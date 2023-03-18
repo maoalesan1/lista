@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" HBO" group-title="HBO",HBO
+http://168.121.46.90:4000/play/a01m/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 1.1" group-title="HBO",HBO 1.1
+http://168.121.46.90:4000/play/a069/index.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO 1.2
+http://170.239.188.253:50000/play/a013/index.m3u8
+
+#EXTINF:0, HBO 2 HD 1.1
+http://168.121.46.90:4000/play/a00l/index.m3u8
+#EXTINF:0, HBO 2 HD 1.2
+http://170.239.188.253:50000/play/a01d/index.m3u8
+
+
+
+#EXTINF:0, HBO Plus
+http://168.121.46.90:4000/play/a00m/index.m3u8
+#EXTINF:0, HBO Plus 
+http://131.196.194.2:8000/play/a0cy/index.m3u8
+
+
+
+
+#EXTINF:0, HBO XTREME SD 1.1
+http://168.121.46.90:4000/play/a00n/index.m3u8 
+#EXTINF:0, HBO XTREME SD 1.2
+http://131.196.194.2:8000/play/a0cz/index.m3u8 
+
+
+
+
+#EXTINF:0, HBO Family 1.1
+http://168.121.46.90:4000/play/a00o/index.m3u8 
+#EXTINF:0, HBO Family HD  1.2
+http://170.239.188.253:50000/play/a02d/index.m3u8
+#EXTINF:0, HBO FAMILY HD  1.3
+http://131.196.194.2:8000/play/a0gv/index.m3u8
+
+#EXTINF:0, HBO POP HD
+http://170.239.188.253:50000/play/a02u/index.m3u8
+#EXTINF:0, HBO POP HD 
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278687
+
+
+
+#EXTINF:0, HBO Signature HD 1.1
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278765
+#EXTINF:0, HBO Signature HD 1.2
+http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/40427
+
+#EXTINF:0, HBO Mundi HD 1.1
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278762
+
+#EXTINF:0, HBO Mundi HD 1.2
+http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/164
