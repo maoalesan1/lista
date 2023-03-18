@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:0 group-title="HBO",HBO 
+#EXTINF:0, HBO 
 http://168.121.46.90:4000/play/a01m/index.m3u8
 
 
-#EXTINF:0 group-title="HBO",HBO 1.1
+#EXTINF:0, HBO 1.1
 http://168.121.46.90:4000/play/a069/index.m3u8
 
-#EXTINF:0 group-title="HBO",HBO 1.2 m
+#EXTINF:0, HBO 1.2 m
 http://170.239.188.253:50000/play/a013/index.m3u8
 
-#EXTINF:0 group-title="HBO",HBO 2 HD 1.1
+#EXTINF:0, HBO 2 HD 1.1
 http://168.121.46.90:4000/play/a00l/index.m3u8
-#EXTINF:0 group-title="HBO",HBO 2 HD 1.2
+#EXTINF:0, HBO 2 HD 1.2
 http://170.239.188.253:50000/play/a01d/index.m3u8
 
 
 
-#EXTINF:0 group-title="HBO",HBO Plus
+#EXTINF:0, HBO Plus
 http://168.121.46.90:4000/play/a00m/index.m3u8
-#EXTINF:0 group-title="HBO",HBO Plus 
+#EXTINF:0, HBO Plus 
 http://131.196.194.2:8000/play/a0cy/index.m3u8
 
 
@@ -57,4 +57,12 @@ http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278762
 #EXTINF:0, HBO Mundi HD 1.2
 http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/164
 
+------------------------------------------------
 
+https://raw.githubusercontent.com/maoalesan1/m3u/main/README.md?token=GHSAT0AAAAAACAGR5BQVWGIBFPMZIMYLLLMZAVQF7A
+
+https://raw.githubusercontent.com/maoalesan1/lista/main/canales.m3u
+
+maoalesan1
+maoalesan@yahoo.es
+Mexican1984.
