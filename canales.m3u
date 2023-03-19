@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:0, ID HD
-http://8.242.187.233:5800/play/a0ds/index.m3u8
 #EXTINF:0,LA: A&E
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127687
 #EXTINF:0,LA: A3
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128675
-#EXTINF:0,LA: ANIMAL PLANET
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127691
+
 #EXTINF:0,LA: AXN
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127693
 #EXTINF:0,LA: AXN
@@ -41,10 +38,16 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127715
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127716
 #EXTINF:0,LA: DE PELICULA CLASICO
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127717
+
+
+#EXTINF:0,LA: DISCOVERY ANIMAL PLANET
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127691
+
+
 #EXTINF:0,LA: DISCOVERY CHANNEL
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127721
-#EXTINF:0,LA: DISCOVERY CIVILIZATION
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127722
+#EXTINF:0,LA: DISCOVERY HGTV / CIVILIZATION
+https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
 #EXTINF:0,LA: DISCOVERY HOME & HEALTH
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127723
 #EXTINF:0,LA: DISCOVERY KIDS
@@ -57,6 +60,22 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127726
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127727
 #EXTINF:0,LA: DISCOVERY WORLD
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127728
+#EXTINF:0,LA: DISCOVERY ID
+http://190.107.25.132:8000/play/a09j
+#EXTINF:0,LA: DISCOVERY TLC
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127826
+
+#EXTINF:0,LA: DISCOVERY FOOD NETWORK
+http://supersonictv.live:25461/Larry123/Larry123/61283
+
+#EXTINF:-1,Mega
+http://45.238.21.67:4000/play/a0co
+
+
+
+
+
+
 #EXTINF:0,LA: DISNEY CHANNEL
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127729
 #EXTINF:0,LA: DISNEY JUNIOR
@@ -201,8 +220,7 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127813
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127814
 #EXTINF:0,LA: TELECENTRO
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128757
-#EXTINF:0,LA: TLC
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127826
+
 #EXTINF:0,LA: TNT
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127827
 #EXTINF:0,LA: TNT SERIES
@@ -267,7 +285,6 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127685
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/194727
 #EXTINF:0,LA: WARNER
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127850
-
 #EXTINF:0,LA: MI MUSICA HD Hits
 http://177.93.43.85:4080/play/a02l/index.m3u8
 #EXTINF:0,LA: MI MUSICA HD Salsa
