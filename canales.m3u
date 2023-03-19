@@ -97,21 +97,29 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127764
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127765
 
 
-#EXTINF:0,LA: HBO
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO"  group-title="HBO",HBO
 http://170.239.188.253:50000/play/a013/index.m3u8
-#EXTINF:0,LA: HBO 2
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO 2"  group-title="HBO",HBO 2
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127768
-#EXTINF:0,LA: HBO EXTREME
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO EXTREME"  group-title="HBO",HBO EXTREME
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127780
-#EXTINF:0,LA: HBO FAMILY
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO FAMILY"  group-title="HBO",HBO FAMILY
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128723
-#EXTINF:0,LA: HBO MUNDI
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO MUNDI"  group-title="HBO",HBO MUNDI
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127779
-#EXTINF:0,LA: HBO PLUS
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO PLUS"  group-title="HBO",HBO PLUS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127770
-#EXTINF:0,LA: HBO POP
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO POP"  group-title="HBO",HBO POP
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127781
-#EXTINF:0,LA: HBO SIGNATURE 
+
+#EXTINF:0, tvg-logo="" tvg-name="HBO SIGNATURE"  group-title="HBO",HBO SIGNATURE
 http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/40427
 
 
