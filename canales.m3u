@@ -98,28 +98,28 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127765
 
 
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO"  group-title="HBO",HBO
+#EXTINF:0,LA: HBO
 http://170.239.188.253:50000/play/a013/index.m3u8
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO 2"  group-title="HBO",HBO 2
+#EXTINF:0,LA: HBO 2
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127768
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO EXTREME"  group-title="HBO",HBO EXTREME
+#EXTINF:0,LA: HBO EXTREME
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127780
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO FAMILY"  group-title="HBO",HBO FAMILY
+#EXTINF:0,LA: HBO FAMILY
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128723
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO MUNDI"  group-title="HBO",HBO MUNDI
+#EXTINF:0,LA: HBO MUNDI
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127779
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO PLUS"  group-title="HBO",HBO PLUS
+#EXTINF:0,LA: HBO PLUS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127770
 
-#EXTINF:0, tvg-logo="" tvg-name="HBO POP"  group-title="HBO",HBO POP
+#EXTINF:0,LA: HBO POP
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127781
 
-#EXTINF:0, tvg-logo="" tvg-name="TODO"  group-title="HBO",HBO SIGNATURE
+#EXTINF:0,LA: HBO SIGNATURE
 http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/40427
 
 
@@ -205,63 +205,61 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127810
 -------------------------------------------------------------------------
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL TV HD CANAL 1.1"  group-title="UNIVERSAL",UNIVERSAL TV HD CANAL 1.1
+#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.1
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278700
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL TV HD CANAL 1.2"  group-title="UNIVERSAL",UNIVERSAL TV HD CANAL 1.2
+#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.2
 http://190.61.102.67:8000/play/a06u
 
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME HD 1.1"  group-title="UNIVERSAL",UNIVERSAL CRIME HD 1.1
+#EXTINF:0,LA: UNIVERSAL CRIME HD 1.1
 http://190.61.102.67:8000/play/a06a
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME HD 1.2"  group-title="UNIVERSAL",UNIVERSAL CRIME HD 1.2
+#EXTINF:0,LA: UNIVERSAL CRIME HD 1.2
 http://167.250.222.35:16000/play/a09d/index.m3u8
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME ESTE HD"  group-title="UNIVERSAL",UNIVERSAL CRIME ESTE HD
+#EXTINF:0,LA: UNIVERSAL CRIME ESTE HD
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278720
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL COMEDY HD 1.1"  group-title="UNIVERSAL",UNIVERSAL COMEDY HD 1.1
-
+#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.1
 http://190.61.102.67:8000/play/a06b
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL COMEDY HD 1.2"  group-title="UNIVERSAL",UNIVERSAL COMEDY HD 1.2
+#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.2
 http://167.250.222.35:16000/play/a09e/index.m3u8
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CINEMA ESTE HD 1.1"  group-title="UNIVERSAL",UNIVERSAL CINEMA ESTE HD 1.1
+#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.1
 http://168.121.46.90:4000/play/a00u/index.m3u8
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CINEMA ESTE HD 1.2"  group-title="UNIVERSAL",UNIVERSAL CINEMA ESTE HD 1.2
+#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.2
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278729
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CINEMA OSTE HD"  group-title="UNIVERSAL",UNIVERSAL CINEMA OSTE HD
+#EXTINF:0,LA: UNIVERSAL CINEMA OSTE HD
 http://190.61.102.67:8000/play/a05f
 
 
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL PREMIER SD 1"  group-title="UNIVERSAL",UNIVERSAL PREMIER SD 1
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 1
 http://168.121.46.90:4000/play/a00t/index.m3u8
-
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL PREMIER SD 2"  group-title="UNIVERSAL",UNIVERSAL PREMIER SD 2
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 2
 http://167.250.222.35:16000/play/a09b/index.m3u8 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL PREMIER SD 3"  group-title="UNIVERSAL",UNIVERSAL PREMIER SD 3
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 3
 http://167.250.222.35:16000/play/a09a/index.m3u8
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL REALITY HD 1.1"  group-title="UNIVERSAL",UNIVERSAL REALITY HD 1.1
+#EXTINF:0,LA: UNIVERSAL REALITY HD 1.1
 http://167.250.222.35:16000/play/a09c/index.m3u8%20
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL REALITY HD 1.2"  group-title="UNIVERSAL",UNIVERSAL REALITY HD 1.2
+#EXTINF:0,LA: UNIVERSAL REALITY HD 1.2
 http://190.61.102.67:8000/play/a069
 
 
-#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL STUDIO 1.1"  group-title="UNIVERSAL",UNIVERSAL STUDIO 1.1
+#EXTINF:0,LA: UNIVERSAL STUDIO 1.1
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/491826
 
-#EXTINF:0, tvg-logo="" tvg-name="TODO"  group-title="UNIVERSAL",UNIVERSAL STUDIO 1.2
+#EXTINF:0,LA: UNIVERSAL STUDIO 1.2
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127651
 
 
