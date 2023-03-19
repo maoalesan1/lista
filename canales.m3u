@@ -197,18 +197,21 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127810
 -------------------------------------------------------------------------
 
 
-
 #EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL TV HD CANAL 1.1"  group-title="UNIVERSAL",UNIVERSAL TV HD CANAL 1.1
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278700
-#EXTINF:0, UNIVERSAL TV HD CANAL 1.2
+
+#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL TV HD CANAL 1.2"  group-title="UNIVERSAL",UNIVERSAL TV HD CANAL 1.2
 http://190.61.102.67:8000/play/a06u
 
 
-#EXTINF:0, UNIVERSAL CRIME HD 1.1
+
+#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME HD 1.1"  group-title="UNIVERSAL",UNIVERSAL CRIME HD 1.1
 http://190.61.102.67:8000/play/a06a
-#EXTINF:0, UNIVERSAL CRIME HD 1.2
+
+#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME HD 1.2"  group-title="UNIVERSAL",UNIVERSAL CRIME HD 1.2
 http://167.250.222.35:16000/play/a09d/index.m3u8
-#EXTINF:0, UNIVERSAL CRIME ESTE HD
+
+#EXTINF:0, tvg-logo="" tvg-name="UNIVERSAL CRIME ESTE HD"  group-title="UNIVERSAL",UNIVERSAL CRIME ESTE HD
 http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278720
 
 #EXTINF:0, UNIVERSAL COMEDY HD 1.1
