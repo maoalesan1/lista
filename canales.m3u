@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, ID HD
+http://8.242.187.233:5800/play/a0ds/index.m3u8
 #EXTINF:0,LA: A&E
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127687
 #EXTINF:0,LA: A3
@@ -6,9 +8,9 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128675
 #EXTINF:0,LA: ANIMAL PLANET
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127691
 #EXTINF:0,LA: AXN
-http://45.232.177.17:8000/play/a00b
-#EXTINF:0,LA: AXN
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127693
+#EXTINF:0,LA: AXN
+http://45.232.177.17:8000/play/a00b
 #EXTINF:0,LA: AZTECA UNO
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127695
 #EXTINF:0,LA: BABY FIRST
@@ -95,35 +97,22 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127763
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127764
 #EXTINF:0,LA: GOLDEN PREMIER
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127765
-
-
-
 #EXTINF:0,LA: HBO
 http://170.239.188.253:50000/play/a013/index.m3u8
-
 #EXTINF:0,LA: HBO 2
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127768
-
 #EXTINF:0,LA: HBO EXTREME
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127780
-
 #EXTINF:0,LA: HBO FAMILY
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128723
-
 #EXTINF:0,LA: HBO MUNDI
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127779
-
 #EXTINF:0,LA: HBO PLUS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127770
-
 #EXTINF:0,LA: HBO POP
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127781
-
 #EXTINF:0,LA: HBO SIGNATURE
 http://higherpro.xyz:8080/37he89keya65de23/m56da78me45m/40427
-
-
-
 #EXTINF:0,LA: HISTORY 2
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128677
 #EXTINF:0,LA: HISTORY CHANNEL
@@ -152,6 +141,8 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128741
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127783
 #EXTINF:0,LA: MTV
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127784
+#EXTINF:0,LA: MTV 00 VH1
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127846
 #EXTINF:0,LA: MTV HITS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127785
 #EXTINF:0,LA: MTV Tr3s
@@ -200,78 +191,6 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127808
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127809
 #EXTINF:0,LA: STARZ KIDS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127810
-
-
--------------------------------------------------------------------------
-
-
-#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.1
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278700
-
-#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.2
-http://190.61.102.67:8000/play/a06u
-
-
-
-#EXTINF:0,LA: UNIVERSAL CRIME HD 1.1
-http://190.61.102.67:8000/play/a06a
-
-#EXTINF:0,LA: UNIVERSAL CRIME HD 1.2
-http://167.250.222.35:16000/play/a09d/index.m3u8
-
-#EXTINF:0,LA: UNIVERSAL CRIME ESTE HD
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278720
-
-
-#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.1
-http://190.61.102.67:8000/play/a06b
-
-#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.2
-http://167.250.222.35:16000/play/a09e/index.m3u8
-
-#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.1
-http://168.121.46.90:4000/play/a00u/index.m3u8
-#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.2
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278729
-
-#EXTINF:0,LA: UNIVERSAL CINEMA OSTE HD
-http://190.61.102.67:8000/play/a05f
-
-
-
-
-#EXTINF:0,LA: UNIVERSAL PREMIER SD 1
-http://168.121.46.90:4000/play/a00t/index.m3u8
-#EXTINF:0,LA: UNIVERSAL PREMIER SD 2
-http://167.250.222.35:16000/play/a09b/index.m3u8 
-
-#EXTINF:0,LA: UNIVERSAL PREMIER SD 3
-http://167.250.222.35:16000/play/a09a/index.m3u8
-
-
-#EXTINF:0,LA: UNIVERSAL REALITY HD 1.1
-http://167.250.222.35:16000/play/a09c/index.m3u8%20
-
-#EXTINF:0,LA: UNIVERSAL REALITY HD 1.2
-http://190.61.102.67:8000/play/a069
-
-
-#EXTINF:0,LA: UNIVERSAL STUDIO 1.1
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/491826
-
-#EXTINF:0,LA: UNIVERSAL STUDIO 1.2
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127651
-
-
-#EXTINF:0, ID HD
-http://8.242.187.233:5800/play/a0ds/index.m3u8
-
-
---------------------------------------------------------------------------
-
-
-
-
 #EXTINF:0,LA: SUR Peru
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128756
 #EXTINF:0,LA: SYFY
@@ -288,8 +207,6 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127826
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127827
 #EXTINF:0,LA: TNT SERIES
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127828
-#EXTINF:0,LA: TNT SPORTS
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127829
 #EXTINF:0,LA: TOONCAST
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127830
 #EXTINF:0,LA: TV AZTECA
@@ -302,10 +219,42 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127679
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128765
 #EXTINF:0,LA: TVN  PAN
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127680
-#EXTINF:0,LA: TYC SPORTS
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127833
 #EXTINF:0,LA: UNIVERSAL
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127836
+#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.1
+http://168.121.46.90:4000/play/a00u/index.m3u8
+#EXTINF:0,LA: UNIVERSAL CINEMA ESTE HD 1.2
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278729
+#EXTINF:0,LA: UNIVERSAL CINEMA OSTE HD
+http://190.61.102.67:8000/play/a05f
+#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.1
+http://190.61.102.67:8000/play/a06b
+#EXTINF:0,LA: UNIVERSAL COMEDY HD 1.2
+http://167.250.222.35:16000/play/a09e/index.m3u8
+#EXTINF:0,LA: UNIVERSAL CRIME ESTE HD
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278720
+#EXTINF:0,LA: UNIVERSAL CRIME HD 1.1
+http://190.61.102.67:8000/play/a06a
+#EXTINF:0,LA: UNIVERSAL CRIME HD 1.2
+http://167.250.222.35:16000/play/a09d/index.m3u8
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 1
+http://168.121.46.90:4000/play/a00t/index.m3u8
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 2
+http://167.250.222.35:16000/play/a09b/index.m3u8%20
+#EXTINF:0,LA: UNIVERSAL PREMIER SD 3
+http://167.250.222.35:16000/play/a09a/index.m3u8
+#EXTINF:0,LA: UNIVERSAL REALITY HD 1.1
+http://167.250.222.35:16000/play/a09c/index.m3u8%20
+#EXTINF:0,LA: UNIVERSAL REALITY HD 1.2
+http://190.61.102.67:8000/play/a069
+#EXTINF:0,LA: UNIVERSAL STUDIO 1.1
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/491826
+#EXTINF:0,LA: UNIVERSAL STUDIO 1.2
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127651
+#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.1
+http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/278700
+#EXTINF:0,LA: UNIVERSAL TV HD CANAL 1.2
+http://190.61.102.67:8000/play/a06u
 #EXTINF:0,LA: UNIVISION  PR
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127798
 #EXTINF:0,LA: UNIVISION NETWORK
@@ -316,20 +265,14 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127845
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127685
 #EXTINF:0,LA: VePlus
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/194727
-#EXTINF:0,LA: VH1
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127846
-#EXTINF:0,LA: WAPA
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127847
-#EXTINF:0,LA: Wapa  PR
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128671
-#EXTINF:0,LA: Wapa 2   PR
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/128672
-#EXTINF:0,LA: WAPA AMERICA
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127849
 #EXTINF:0,LA: WARNER
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127850
 
-
-
-
-
+#EXTINF:0,LA: MI MUSICA HD Hits
+http://177.93.43.85:4080/play/a02l/index.m3u8
+#EXTINF:0,LA: MI MUSICA HD Salsa
+http://177.93.43.85:4080/play/a02m/index.m3u8
+#EXTINF:0,LA: MI MUSICA POPULAR HD
+http://177.93.43.85:4080/play/a02k/index.m3u8
+#EXTINF:0,LA: MI MUSICA REGGAETON
+http://177.93.43.85:4080/play/a02j/index.m3u8
